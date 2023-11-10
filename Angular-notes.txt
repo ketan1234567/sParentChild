@@ -1,0 +1,145 @@
+There are two types scrpting language
+1)server side scriting labguage
+2)client side Scripting language
+
+
+2)what is difference between library and language
+1)library (React js,Angular js) (Library purna application develop karun shakat nhi)
+2)Framework(it can develop whole application)
+
+*)what is DOM
+
+when you run in html file in browser in called (DOM)
+
+it can whole code is document
+
+every element called object
+
+structur is called model
+
+*)what is oops ?
+
+*)How do I identify is decorator 
+when starting is prefixin @NgModule([
+
+])
+It is called decorator
+
+there are 
+
+
+meta Data
+
+1)Decalration:-component name 
+2)import :-predefined module
+3)Provider:-services name
+4)boostratup:-where shoulde be run this (Booting process)
+
+
+first time it was load index.html
+
+
+why is use component?
+
+*)Decorator is function its invoke automatically 
+
+*)error handing?
+it is showing message to instaed of error 
+
+*)what is different metaData?
+
+*)What is Encapsulation?
+
+method property and rapping data
+
+*)css scop define karanasthi karathi hotay angular 
+
+emulated (default) 1)No shadow dom style Encapsulation
+
+
+native/shadow down 2)shadow dom  style Encapsulation
+
+ 
+none 3) no shadow dom no style Encapsulation
+
+var:- var is globally type varible
+
+let:let scop type of varible type
+
+ const:const is scop of varible type
+declration and definition in should be same line 
+__________________________________________________END_____________________________
+
+10/11/2023
+
+*)Interfce is contain name of method 
+we can not defined not body
+
+interface la implement karanasathi we want write implements
+
+ineterface abc{
+showData()
+show1()
+display()
+}
+
+class xyz implments abc{
+showData(){
+conslog.log("showData");
+
+}
+show1(){
+conslog.log("show1);
+}
+display()
+conslog.log("display");
+}
+
+viewProviders:[xyz]
+
+constructor(private:_xyz:xyz){
+_Xyz.showData();
+_Xyz.show1();
+_Xyz.display();
+let mycolor:color
+mycolor=color.red
+consloe.log(mycolor)
+
+}
+ng g enum colors
+
+export enum colors{
+red=10
+green=20
+yellow=30
+blue=40
+
+}
+
+
+
+
+
+
+
+
+*)enum is defined in const string value 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
